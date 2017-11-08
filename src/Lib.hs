@@ -20,6 +20,7 @@ module Lib(
 import           Data.Matrix
 import           Fraction
 
+-- | SBR datatype. Defines the Stern-Brocot Representation of a positive Fraction.
 data SBR = R SBR -- ^ R descent then SBR.
          | L SBR -- ^ L descent then SBR.
          | I     -- ^ I identity.
