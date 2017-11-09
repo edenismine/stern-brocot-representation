@@ -4,6 +4,8 @@
 # JetBrains metadata
 .idea
 *.xml
+_windows/
+codestyles/
 
 # Pandoc README
 pandoc.md
