@@ -1,4 +1,5 @@
 ---
+# yaml header used for pandoc exporting
 title: Modeling and Programming 2018-1: Seventh lab practice
 author: Luis Daniel Aragon Bermudez 416041271 
 date: November 7th, 2017
