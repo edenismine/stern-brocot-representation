@@ -3,6 +3,7 @@
 
 # JetBrains metadata
 .idea
+*.xml
 
 # Pandoc README
 pandoc.md
