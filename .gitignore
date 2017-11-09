@@ -1,0 +1,8 @@
+# Stack work
+.stack-work/
+
+# JetBrains metadata
+.idea
+
+# Pandoc README
+pandoc.md
